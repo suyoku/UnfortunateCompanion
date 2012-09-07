@@ -1,7 +1,7 @@
 TileUtil = {}
 
-GRID_CELL_WIDTH = 64
-GRID_CELL_HEIGHT = 64
+GRID_CELL_WIDTH = 32
+GRID_CELL_HEIGHT = 32
 
 --[[ Loads an image containing all the level information 
      and stores it in a 2D array ]]--
